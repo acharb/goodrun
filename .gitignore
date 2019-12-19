@@ -1,0 +1,8 @@
+*.pyc
+bin/
+ngrok
+.env
+db.sqlite3
+venv
+
+*.sh
